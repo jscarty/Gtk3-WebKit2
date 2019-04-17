@@ -1,0 +1,40 @@
+{
+   "abstract" : "WebKit2 bindings for Perl",
+   "author" : [
+      "Emmanuel Rodriguez <potyl@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.131560, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "open_source"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Gtk3-WebKit2",
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Glib::Object::Introspection" : "0",
+            "Gtk3" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::NeedsDisplay" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.06",
+   "x_serialization_backend" : "JSON::PP version 4.02"
+}
