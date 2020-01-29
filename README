@@ -1,11 +1,11 @@
 
 
 This archive contains the distribution Gtk3-WebKit2,
-version 0.06:
+version 0.01:
 
   WebKit2 bindings for Perl
 
-This software is Copyright (c) 2014 by Emmanuel Rodriguez.
+This software is Copyright (c) 2020 by WWW::WebKit2 Development Team.
 
 This is free software, licensed under:
 

@@ -441,11 +441,13 @@ list (gtk-perl-list@gnome.org).
 
 =head1 AUTHORS
 
-Emmanuel Rodriguez E<lt>potyl@cpan.orgE<gt>.
+Jason Shaun Carty <jc@atikon.com>,
+Philipp Voglhofer <pv@atikon.com>,
+Philipp A. Lehner <pl@atikon.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2011, 2012 by Emmanuel Rodriguez.
+Copyright (C) 2020 by Jason Shaun Carty, Philipp Voglhofer and Philipp A. Lehner
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms of:

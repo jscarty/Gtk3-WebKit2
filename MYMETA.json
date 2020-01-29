@@ -1,7 +1,9 @@
 {
    "abstract" : "WebKit2 bindings for Perl",
    "author" : [
-      "Emmanuel Rodriguez <potyl@cpan.org>"
+      "Jason Shaun Carty <jc@atikon.com>",
+      "Philipp Voglhofer <pv@atikon.com>",
+      "Philipp A. Lehner <pl@atikon.com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.131560, CPAN::Meta::Converter version 2.150010",
