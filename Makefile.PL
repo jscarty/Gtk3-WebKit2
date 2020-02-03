@@ -6,11 +6,11 @@ use warnings;
 
 use ExtUtils::MakeMaker 6.30;
 
-
+my @authors = ( 'Jason Shaun Carty <jc@atikon.com>',  'Philipp Voglhofer <pv@atikon.com>', 'Philipp A. Lehner <pl@atikon.com>' );
 
 my %WriteMakefileArgs = (
   "ABSTRACT" => "WebKit2 bindings for Perl",
-  "AUTHOR" => "Emmanuel Rodriguez <potyl\@cpan.org>",
+  "AUTHOR" => \@authors,
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => "6.30"
@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
   "TEST_REQUIRES" => {
     "Test::NeedsDisplay" => 0
   },
-  "VERSION" => "0.06",
+  "VERSION" => "0.1",
   "test" => {
     "TESTS" => "t/*.t"
   }
