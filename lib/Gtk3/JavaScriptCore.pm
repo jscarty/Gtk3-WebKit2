@@ -1,6 +1,6 @@
 package Gtk3::JavaScriptCore;
 {
-  $Gtk3::JavaScriptCore::VERSION = '0.01';
+  $Gtk3::JavaScriptCore::VERSION = '0.011';
 }
 
 use warnings;

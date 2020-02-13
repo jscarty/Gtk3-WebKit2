@@ -6,5 +6,6 @@ Makefile.PL
 README
 dist.ini
 examples/browser.pl
-lib/Gtk3/WebKit.pm
+lib/Gtk3/JavaScriptCore.pm
+lib/Gtk3/WebKit2.pm
 t/webkit.t
